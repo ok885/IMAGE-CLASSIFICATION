@@ -1,4 +1,3 @@
-# 🧠 Dog vs Cat Image Classifier
 
 **INTERN NAME**: BHARAT BHANDARI  
 **INTERN ID**: CT04DF123  
